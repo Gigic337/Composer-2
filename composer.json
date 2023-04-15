@@ -1,0 +1,15 @@
+{
+    "name": "wild/app",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gigic337",
+            "email": "marboeufgilda.971@gmail.com"
+        }
+    ],
+    "require": {}
+}
